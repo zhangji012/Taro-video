@@ -2,7 +2,9 @@ import { ComponentClass } from 'react'
 import Taro, { Component, Config } from '@tarojs/taro'
 import { View } from '@tarojs/components'
 import { connect } from '@tarojs/redux'
-import AppVideo from '../../components/wxVideo/index'
+// import AppVideo from '../../components/wxVideo/index'
+import AppVideo from 'tarovideo'
+
 
 import './index.less'
 

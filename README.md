@@ -8,7 +8,7 @@
 
 ![Section](resources/video.gif)
 
-
+使用npm包
 ## API
 
 ``` javascript
@@ -27,4 +27,5 @@
 | `confirmColor` | 网络切换弹框提示确认按钮颜色(选填) | `string` | `#ff4f00` |
 
 
-
+## 下载安装
+  yarn add tarovideo
