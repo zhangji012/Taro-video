@@ -1,0 +1,35 @@
+.videoPage {
+  width: 100%;
+  height: 363px;
+  &-video {
+    width: 100%;
+    height: 100%;
+  }
+  .content {
+    height: 160px;
+    line-height: 160px;
+    text-align: center
+  }
+  .btn {
+    display: flex;
+    text-align: center;
+    border-top: 1px solid #e8e8e8;
+    height: 100px;
+    line-height: 100px;
+    box-sizing: border-box;
+    .cancel {
+      font-size: 30px;
+      color: #585858;
+      border-right: 1px solid #e8e8e8;
+      flex: 1;
+    }
+    .ok {
+      font-size: 30px;
+      color: #ff4f00;
+      flex: 1;
+    }
+  }
+
+}
+
+
