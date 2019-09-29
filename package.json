@@ -1,8 +1,9 @@
 {
-  "name": "Taro-video",
-  "version": "1.0.0",
+  "name": "tarovideo",
+  "version": "1.0.1",
   "private": false,
   "description": "视频播放器网络切换提示",
+  "main": "dist/index.js",
   "templateInfo": {
     "name": "redux",
     "typescript": true,
