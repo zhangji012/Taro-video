@@ -4,6 +4,11 @@
     yarn
     yarn dev:weapp
 
+### 板块查看
+
+![Section](resources/video.gif)
+
+
 ## API
 
 ``` javascript
